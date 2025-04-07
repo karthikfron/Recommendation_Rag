@@ -8,10 +8,10 @@ import google.generativeai as genai
 app = FastAPI()
 
 # Load FAISS index
-index = faiss.read_index("faiss_index.index")
+index = faiss.read_index("Backend/faiss_index.index")
 
 # Load assessment data
-with open("enriched_data.json", "r", encoding="utf-8") as f:
+with open("Backend/enriched_data.json", "r", encoding="utf-8") as f:
     data = json.load(f)
 
 # Request model
@@ -36,7 +36,7 @@ def search_assessments(query_embedding, top_k=10):
     distances, indices = index.search(np.array([query_embedding]).astype("float32"), top_k)
     return [data[i] for i in indices[0]]
 
-# ✅ FIXED API Endpoint
+#  FIXED API Endpoint
 @app.post("/search")
 def search(query: Query):  
     embedding = generate_embedding(query.text)
