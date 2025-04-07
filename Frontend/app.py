@@ -5,10 +5,10 @@ import json
 import google.generativeai as genai
 
 # Load the FAISS index
-index = faiss.read_index("faiss_index.index")
+index = faiss.read_index("Backend/faiss_index.index")
 
 # Load the assessment data
-with open("enriched_data.json", "r", encoding="utf-8") as f:
+with open("Backend/enriched_data.json", "r", encoding="utf-8") as f:
     data = json.load(f)
 
 # FAISS search function
