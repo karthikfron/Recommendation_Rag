@@ -1,0 +1,20 @@
+{
+  "title": "OPQ Emotional Intelligence Report",
+  "description": "This OPQ (Occupational Personality Questionnaire) report explores how a person manages feelings and relationships with other people. It is intended for use in a development setting.",
+  "jobLevels": "Director, Executive, Front Line Manager, General Population, Graduate, Manager, Mid-Professional, Professional Individual Contributor, Supervisor,",
+  "languages": "Portuguese (Brazil), Danish, Dutch, Finnish, French (Canada), French, Latin American Spanish, Portuguese, Swedish, English International, English (USA),",
+  "assessmentLength": null,
+  "productFactSheet": [
+    "https://service.shl.com/docs/OPQ32%20Emotional%20Intelligence%20Report%20Std%20v2.0%20English%20International.pdf",
+    "https://service.shl.com/docs/OPQ32%20Emotional%20Intelligence%20Report%20Std%20v2.0%20French%20(Canada).pdf",
+    "https://service.shl.com/docs/OPQ32%20Emotional%20Intelligence%20Report%20Std%20v2.0%20Spanish%20(North%20America).pdf",
+    "https://service.shl.com/docs/OPQ32%20Emotional%20Intelligence%20Report%20Std%20v2.0%20English%20(US).pdf",
+    "https://service.shl.com/docs/OPQ32%20Emotional%20Intelligence%20Report%20Std%20v2.0%20Danish.pdf",
+    "https://service.shl.com/docs/OPQ32%20Emotional%20Intelligence%20Report%20Std%20v2.0%20Dutch.pdf",
+    "https://service.shl.com/docs/OPQ32%20Emotional%20Intelligence%20Report%20Std%20v2.0%20Finnish.pdf",
+    "https://service.shl.com/docs/OPQ32%20Emotional%20Intelligence%20Report%20Std%20v2.0%20French.pdf",
+    "https://service.shl.com/docs/OPQ32%20Emotional%20Intelligence%20Report%20Std%20v2.0%20Portuguese.pdf",
+    "https://service.shl.com/docs/OPQ32%20Emotional%20Intelligence%20Report%20Std%20v2.0%20Swedish.pdf",
+    "https://service.shl.com/docs/OPQ32%20Emotional%20Intelligence%20Report%20Std%20v2.0%20Portuguese%20(Brazil).pdf"
+  ]
+}

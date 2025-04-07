@@ -1,0 +1,18 @@
+{
+  "title": "HiPo Assessment Report 1.0",
+  "description": "Part of SHL’s High Potential solution and developed from SHL’s extensive research into high-potential programs, the HIPO Assessment Report 1.0 helps organizations identify individuals with the strongest potential to succeed in senior and challenging roles. Using assessments such as the Motivation Questionnaire, OPQ, and Verify Cognitive Ability Tests, the report evaluates critical areas of aspiration, ability, and engagement. This version is used in regions where normed data for Verify Gen 1 and UCF 1 continue to provide the most relevant benchmarks, offering organizations proven insights for high-potential identification and talent development.",
+  "jobLevels": null,
+  "languages": null,
+  "assessmentLength": null,
+  "productFactSheet": [
+    "https://service.shl.com/docs/High-Potential%20Assessment%20Report%20Std%20v2.0%20English%20International.pdf",
+    "https://service.shl.com/docs/High-Potential%20Assessment%20Report%20Std%20v2.0%20NA%20Spanish.pdf",
+    "https://service.shl.com/docs/High-Potential%20Assessment%20Report%20Std%20v2.0%20English%20(US).pdf",
+    "https://service.shl.com/docs/High-Potential%20Assessment%20Report%20Std%20v2.0%20Chinese%20Simplified.pdf",
+    "https://service.shl.com/docs/High-Potential%20Assessment%20Report%20Std%20v2.0%20Dutch.pdf",
+    "https://service.shl.com/docs/High-Potential%20Assessment%20Report%20Std%20v2.0%20French.pdf",
+    "https://service.shl.com/docs/High-Potential%20Assessment%20Report%20Std%20v2.0%20German.pdf",
+    "https://service.shl.com/docs/High-Potential%20Assessment%20Report%20Std%20v2.0%20Italian.pdf",
+    "https://service.shl.com/docs/HiPo%20Assessment%20Report%20-%20Sample%20Brazilian%20Portuguese.pdf"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Apprentice 8.0 Job Focused Assessment",
+  "description": "The Apprentice 8.0 Job-Focused Assessment is a short, targeted, globally applicable assessment. This assessment is designed for entry-level positions appropriate for countries and industries that use an apprenticeship model. It is intended to be used multi-nationally for organizations whose business spans across regions.",
+  "jobLevels": "Entry-Level, General Population, Graduate,",
+  "languages": "English International, German, French,",
+  "assessmentLength": "Approximate Completion Time in minutes = 20",
+  "productFactSheet": [
+    "https://service.shl.com/docs/Apprentice%208.0%20JFA%20Fact%20Sheet.pdf",
+    "https://service.shl.com/docs/Apprentice8.0_CandidateReport_INT.pdf",
+    "https://service.shl.com/docs/Apprentice8.0_DetailedReport_INT.pdf",
+    "https://service.shl.com/docs/Apprentice8.0_InterviewReport_INT.pdf",
+    "https://service.shl.com/docs/Apprentice8.0_CandidateReport_DEU.pdf",
+    "https://service.shl.com/docs/Apprentice8.0_DetailedReport_DEU.pdf",
+    "https://service.shl.com/docs/Apprentice8.0_InterviewReport_DEU.pdf"
+  ]
+}

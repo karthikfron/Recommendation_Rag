@@ -1,0 +1,16 @@
+{
+  "title": "OPQ Maximising your Learning Report",
+  "description": "This OPQ (Occupational Personality Questionnaire) report is designed to help people get the most from their development. It summarises the preferred approach to learning across four dimensions.",
+  "jobLevels": "Executive, Front Line Manager, General Population, Graduate, Manager, Mid-Professional, Professional Individual Contributor, Supervisor, Director,",
+  "languages": "Danish, Dutch, Portuguese, Swedish, English International,",
+  "assessmentLength": null,
+  "productFactSheet": [
+    "https://service.shl.com/docs/OPQ32%20Maximise%20Your%20Learning%20Report%20Std%20v2%20English%20International.pdf",
+    "https://service.shl.com/docs/OPQ32%20Maximise%20Your%20Learning%20Report%20Std%20v2%20French%20(Canada).pdf",
+    "https://service.shl.com/docs/OPQ32%20Maximise%20Your%20Learning%20Report%20Std%20v2%20Danish.pdf",
+    "https://service.shl.com/docs/OPQ32%20Maximise%20Your%20Learning%20Report%20Std%20v2%20Dutch.pdf",
+    "https://service.shl.com/docs/OPQ32%20Maximise%20Your%20Learning%20Report%20Std%20v2%20French.pdf",
+    "https://service.shl.com/docs/OPQ32%20Maximise%20Your%20Learning%20Report%20Std%20v2%20Portuguese.pdf",
+    "https://service.shl.com/docs/OPQ32%20Maximise%20Your%20Learning%20Report%20Std%20v2%20Swedish.pdf"
+  ]
+}

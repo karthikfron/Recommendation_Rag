@@ -1,0 +1,21 @@
+{
+  "title": "OPQ Team Types and Leadership Styles Report",
+  "description": "This OPQ (Occupational Personality Questionnaire) report is based on Belbin's team types and Bass's leadership and reporting styles. Belbins team types: individual preferred role when working in ateam. Bass's leadership and reporting styles: individuals preferred leadership styles and likely style of behaviour as a direct report.",
+  "jobLevels": "Director, Executive, Front Line Manager, General Population, Graduate, Manager, Mid-Professional, Professional Individual Contributor, Supervisor,",
+  "languages": "Flemish, French (Belgium), Portuguese (Brazil), Danish, Dutch, Finnish, French (Canada), French, Italian, Latin American Spanish, Norwegian, Portuguese, English International, English (USA),",
+  "assessmentLength": null,
+  "productFactSheet": [
+    "https://service.shl.com/docs/OPQ32%20Team%20Types%20and%20Leadership%20Styles%20Report%20Std%20v2%20English%20International.pdf",
+    "https://service.shl.com/docs/OPQ32%20Team%20Types%20and%20Leadership%20Styles%20Report%20Std%20v2%20French%20(Canada).pdf",
+    "https://service.shl.com/docs/OPQ32%20Team%20Types%20and%20Leadership%20Styles%20Report%20Std%20v2%20Spanish%20(North%20America).pdf",
+    "https://service.shl.com/docs/OPQ32%20Team%20Types%20and%20Leadership%20Styles%20Report%20Std%20v2%20English%20(US).pdf",
+    "https://service.shl.com/docs/OPQ32%20Team%20Types%20and%20Leadership%20Styles%20Report%20Std%20v2%20Danish.pdf",
+    "https://service.shl.com/docs/OPQ32%20Team%20Types%20and%20Leadership%20Styles%20Report%20Std%20v2%20Dutch.pdf",
+    "https://service.shl.com/docs/OPQ32%20Team%20Types%20and%20Leadership%20Styles%20Report%20Std%20v2%20Finnish.pdf",
+    "https://service.shl.com/docs/OPQ32%20Team%20Types%20and%20Leadership%20Styles%20Report%20Std%20v2%20French.pdf",
+    "https://service.shl.com/docs/OPQ32%20Team%20Types%20and%20Leadership%20Styles%20Report%20Std%20v2%20Italian.pdf",
+    "https://service.shl.com/docs/OPQ32%20Team%20Types%20and%20Leadership%20Styles%20Report%20Std%20v2%20Norwegian.pdf",
+    "https://service.shl.com/docs/OPQ32%20Team%20Types%20and%20Leadership%20Styles%20Report%20Std%20v2%20Portuguese.pdf",
+    "https://service.shl.com/docs/OPQ32%20Team%20Types%20and%20Leadership%20Styles%20Report%20Std%20v2%20Portuguese%20(Brazil).pdf"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "title": "SQL Server (New)",
+  "description": "Multi-choice test that measures the knowledge of basic SQL queries, creating and altering tables, filtering, grouping, aggregation in SQL and querying multiple tables.",
+  "jobLevels": "Mid-Professional, Professional Individual Contributor,",
+  "languages": "English (USA),",
+  "assessmentLength": "Approximate Completion Time in minutes = 11",
+  "productFactSheet": [
+    "https://service.shl.com/docs/SQL%20Server%20(New).pdf"
+  ]
+}

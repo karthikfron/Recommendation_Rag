@@ -1,0 +1,10 @@
+{
+  "title": "SQL Server Analysis Services (SSAS) (New)",
+  "description": "Multi-choice test that measures the knowledge of SSAS database, querying multidimensional analysis solutions, cube hierarchies, measures, dimensions, power BI, DAX, MDX, tabular model data access and security.",
+  "jobLevels": "Mid-Professional, Professional Individual Contributor,",
+  "languages": "English (USA),",
+  "assessmentLength": "Approximate Completion Time in minutes = 15",
+  "productFactSheet": [
+    "https://service.shl.com/docs/SQL%20Server%20Analysis%20Services%20(SSAS)%20(1).pdf"
+  ]
+}

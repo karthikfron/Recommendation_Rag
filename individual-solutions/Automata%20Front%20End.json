@@ -1,0 +1,11 @@
+{
+  "title": "Automata Front End",
+  "description": "Simulation based test that measures the front-end development capabilities using HTML, CSS, and JavaScript. The candidate is provided with 3 different sections to code in HTML, CSS and JavaScript respectively and a separate output section to view the output. This simulation is then manually scored.",
+  "jobLevels": "Entry-Level, Graduate, Mid-Professional, Professional Individual Contributor, Manager,",
+  "languages": "English (USA),",
+  "assessmentLength": "Approximate Completion Time in minutes = 30 minutes",
+  "productFactSheet": [
+    "https://service.shl.com/docs/Automata%20Frontend.pdf",
+    "https://service.shl.com/docs/Automata%20Front%20End%20Sample%20Detailed%20Report.pdf"
+  ]
+}

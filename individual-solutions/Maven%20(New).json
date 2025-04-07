@@ -1,0 +1,10 @@
+{
+  "title": "Maven (New)",
+  "description": "Multi-choice test that measures the knowledge of Maven installation, dependencies, Project Object Model (POM), builds and plugins.",
+  "jobLevels": "Mid-Professional, Professional Individual Contributor,",
+  "languages": "English (USA),",
+  "assessmentLength": "Approximate Completion Time in minutes = 7",
+  "productFactSheet": [
+    "https://service.shl.com/docs/Maven%20(New).pdf"
+  ]
+}

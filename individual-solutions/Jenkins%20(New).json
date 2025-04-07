@@ -1,0 +1,10 @@
+{
+  "title": "Jenkins (New)",
+  "description": "Multi-choice test that measures the knowledge of Jenkins configuration and deployment, plugins, nodes, build jobs and testing.",
+  "jobLevels": "Mid-Professional, Professional Individual Contributor,",
+  "languages": "English (USA),",
+  "assessmentLength": "Approximate Completion Time in minutes = 6",
+  "productFactSheet": [
+    "https://service.shl.com/docs/Jenkins%20(New).pdf"
+  ]
+}

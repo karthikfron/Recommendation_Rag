@@ -1,0 +1,10 @@
+{
+  "title": "SonarQube (New)",
+  "description": "Multi-choice test that measures the knowledge of SonarQube, integration tests, Sonar symbols, wildcards, quality cover and Sonar architecture.",
+  "jobLevels": "Mid-Professional, Professional Individual Contributor,",
+  "languages": "English (USA),",
+  "assessmentLength": "Approximate Completion Time in minutes = TBC",
+  "productFactSheet": [
+    "https://service.shl.com/docs/SonarQube%20(New).pdf"
+  ]
+}

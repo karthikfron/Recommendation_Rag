@@ -1,0 +1,10 @@
+{
+  "title": "Data Entry (New)",
+  "description": "Simulated data entry test that measures the ability to accurately transcribe data from pre-filled forms and the ability to verify pre-filled data.",
+  "jobLevels": "Entry-Level,",
+  "languages": "English (USA),",
+  "assessmentLength": "Approximate Completion Time in minutes = 4",
+  "productFactSheet": [
+    "https://service.shl.com/docs/Data%20Entry%20(New).pdf"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "title": "MQ Motivation Report Pack",
+  "description": "The MQ Report pack consists of the Profile Chart, Employee Motivation Report and the Candidate Report and is a cost effective way of ensuring that your organisation takes a comprehensive approach to understanding what motivates its employees.",
+  "jobLevels": "General Population, Graduate, Manager, Mid-Professional, Professional Individual Contributor, Supervisor, Director, Entry-Level, Executive, Front Line Manager,",
+  "languages": "Chinese Simplified, English International, English (USA),",
+  "assessmentLength": null,
+  "productFactSheet": [
+    "https://service.shl.com/docs/MQ%20Motivation%20Pack%20Std%20v2.0%20English%20International.pdf",
+    "https://service.shl.com/docs/MQ%20Motivation%20Pack%20Std%20v2.0%20English%20(US).pdf",
+    "https://service.shl.com/docs/MQ%20Motivation%20Pack%20Std%20v2.0%20Chinese%20Simplified.pdf"
+  ]
+}

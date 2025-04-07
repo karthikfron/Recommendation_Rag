@@ -1,0 +1,21 @@
+{
+  "title": "Sales Transformation Report 1.0 - Sales Manager",
+  "description": "This report combines insights from the OPQ and a Sales Management questionnaire. It provides an accurate and objective measure of a sales manager’s capability to lead a sales team undergoing a sales transformation process. Insights included in this report include an overall job-fit score, and individual scores and score narratives for the behaviours included in SHL’s Sales Transformation behavioural model.",
+  "jobLevels": "Director, Executive, Front Line Manager, Manager, Supervisor,",
+  "languages": null,
+  "assessmentLength": null,
+  "productFactSheet": [
+    "https://service.shl.com/docs/Sales%20Transformation%20SM%20UKE.pdf",
+    "https://service.shl.com/docs/Sales%20Insight%20Development%20Report%20SM%20UKE%20Sample.pdf",
+    "https://service.shl.com/docs/Sales%20Transformation%20SM%20USE.pdf",
+    "https://service.shl.com/docs/SM%20USE%20sample.pdf",
+    "https://service.shl.com/docs/Sales%20Transformation%20Development%20Report%20-%20Sales%20Manager_Japanese.pdf",
+    "https://service.shl.com/docs/Sales%20Transformation%20Recruiter%20Report%20-%20Sales%20Manager_Japanese.pdf",
+    "https://service.shl.com/docs/Sales%20Transformation%20Development%20report(Sales_Mgr)_Dutch_Sample.pdf",
+    "https://service.shl.com/docs/SalesTransformationRecruiterReport-SalesManager_French.pdf",
+    "https://service.shl.com/docs/Sales%20Transformation%20Development%20report(Sales_Mgr)_French_Sample.pdf",
+    "https://service.shl.com/docs/SalesTransformationDevelopmentReport-SalesManager_German.pdf",
+    "https://service.shl.com/docs/SalesTransformationRecruiterReport-SalesManager_German.pdf",
+    "https://service.shl.com/docs/SalesTransformationDevelopmentReport-SalesManager_Spanish.pdf"
+  ]
+}

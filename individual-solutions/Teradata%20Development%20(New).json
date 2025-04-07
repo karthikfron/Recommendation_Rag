@@ -1,0 +1,10 @@
+{
+  "title": "Teradata Development (New)",
+  "description": "Multi-choice test that measures the knowledge on Teradata concepts of RDBMS components, performance availability features, utilities, workload management, basic extensions, logical expressions, subqueries, SQL optimization, physical database design, table partitioning, query analysis and indexes.",
+  "jobLevels": "Mid-Professional, Professional Individual Contributor,",
+  "languages": "English (USA),",
+  "assessmentLength": "Approximate Completion Time in minutes = 9",
+  "productFactSheet": [
+    "https://service.shl.com/docs/Teradata%20Development%20(New).pdf"
+  ]
+}

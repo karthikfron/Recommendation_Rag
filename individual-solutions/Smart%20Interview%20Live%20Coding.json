@@ -1,0 +1,10 @@
+{
+  "title": "Smart Interview Live Coding",
+  "description": "Smart Interview Live Coding is a real-time online coding interview, with a compiler interface. It enables one-to-one, panel and group interviews. Use Smart Interview Live Coding to comprehensively evaluate candidates’ skills across various technical roles and hire the best coding talent.\n\nThe language availability for the candidate and interviewer interface is English (US), Simplified Chinese, Castilian Spanish, Japanese. Please note that the questions themselves are available as standard in US English only.\n\nThe language availability for the admin interface is US English only.",
+  "jobLevels": "Graduate, Manager, Mid-Professional, Professional Individual Contributor, Entry-Level,",
+  "languages": "English (USA),",
+  "assessmentLength": "Approximate Completion Time in minutes = Variable",
+  "productFactSheet": [
+    "https://service.shl.com/docs/Tech%20Hire%20Solutions%20Flyer.pdf"
+  ]
+}

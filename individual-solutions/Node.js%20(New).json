@@ -1,0 +1,10 @@
+{
+  "title": "Node.js (New)",
+  "description": "Multi-choice test that measures the basic knowledge of Node.js such as events, streams, file system, error handling, concurrency, DB handling and express framework.",
+  "jobLevels": "Mid-Professional, Professional Individual Contributor,",
+  "languages": "English (USA),",
+  "assessmentLength": "Approximate Completion Time in minutes = 9",
+  "productFactSheet": [
+    "https://service.shl.com/docs/Node.js%20(New).pdf"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "title": "SQL Server Integration Services (SSIS) (New)",
+  "description": "Multi-choice test that measures the knowledge of SSIS architecture, components, control flow, data flow, transformation, SQL server tasks, SSIS administration, debugging, logging, security deployment, performance, package scheduling, execution and configuration.",
+  "jobLevels": "Mid-Professional, Professional Individual Contributor,",
+  "languages": "English (USA),",
+  "assessmentLength": "Approximate Completion Time in minutes = 10",
+  "productFactSheet": [
+    "https://service.shl.com/docs/SQL%20Server%20Integration%20Services%20(SSIS)%20(New).pdf"
+  ]
+}

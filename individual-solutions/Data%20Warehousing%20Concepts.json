@@ -1,0 +1,10 @@
+{
+  "title": "Data Warehousing Concepts",
+  "description": "The Data Warehousing Concepts test measures knowledge of Data Warehousing. Designed for experienced users, this test covers the following topics: Big Data and Data Warehouse Appliance, Business Considerations, Data Transformation, Data Warehousing and Data Marts, Design, Dimensional Data Model, On Line Analytical Processing (OLAP), Querying and Reporting/Data Extraction.",
+  "jobLevels": "Mid-Professional, Professional Individual Contributor,",
+  "languages": "English (USA),",
+  "assessmentLength": "Approximate Completion Time in minutes = 25",
+  "productFactSheet": [
+    "https://service.shl.com/docs/Fact%20Sheet_Data%20Warehousing%20Concepts.pdf"
+  ]
+}

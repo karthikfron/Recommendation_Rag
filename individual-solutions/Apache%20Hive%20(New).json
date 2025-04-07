@@ -1,0 +1,10 @@
+{
+  "title": "Apache Hive (New)",
+  "description": "Multi-choice test that measures the knowledge of Hive architecture, datatypes, built-in functions, configurations, partitioning, bucketing and commands of Hive query language.",
+  "jobLevels": "Mid-Professional, Professional Individual Contributor,",
+  "languages": "English (USA),",
+  "assessmentLength": "Approximate Completion Time in minutes = 5",
+  "productFactSheet": [
+    "https://service.shl.com/docs/Apache%20Hive%20(New).pdf"
+  ]
+}

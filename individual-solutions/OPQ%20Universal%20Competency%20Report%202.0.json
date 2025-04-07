@@ -1,0 +1,19 @@
+{
+  "title": "OPQ Universal Competency Report 2.0",
+  "description": "This OPQ (Occupational Personality Questionnaire) report is based on the Universal Competency framework. It graphically outlines how an individual's typical way of behaving is likely to impact on competencies. It provides a graphical scale for each competency and summarises aspects of personality which contribute (positively or negatively) to each competency.",
+  "jobLevels": "Graduate, Manager, Mid-Professional, Professional Individual Contributor, Supervisor, Director, Executive, Front Line Manager, General Population,",
+  "languages": null,
+  "assessmentLength": null,
+  "productFactSheet": [
+    "https://service.shl.com/docs/Universal%20Competency%20Report%202.0%20International%20English.pdf",
+    "https://service.shl.com/docs/Universal%20Competency%20Report%202.0%20LA%20Spanish.pdf",
+    "https://service.shl.com/docs/OPQ%20Universal%20Competency%20Report%202.0%20US%20English%20(1).pdf",
+    "https://service.shl.com/docs/Universal%20Competency%20Report%202.0%20Japanese.pdf",
+    "https://service.shl.com/docs/Universal%20Competency%20Report%202.0%20French.pdf",
+    "https://service.shl.com/docs/Universal%20Competency%20Report%202.0%20German.pdf",
+    "https://service.shl.com/docs/Universal%20Competency%20Report%202.0%20Italian.pdf",
+    "https://service.shl.com/docs/Universal%20Competency%20Report%202.0%20Swedish.pdf",
+    "https://service.shl.com/docs/Universal%20Competency%20Report%202.0%20Brazilian%20Portuguese.pdf",
+    "https://service.shl.com/docs/Universal%20Competency%20Report%202.0%20Thai.pdf"
+  ]
+}

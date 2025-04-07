@@ -1,0 +1,10 @@
+{
+  "title": "OPQ Premium Plus Report 2.0",
+  "description": "This OPQ (Occupational Personality Questionnaire) report contains a selection of reports including OPQ profile, user report, manager plus report, candidate plus report, universal competency report, team impact selection report.",
+  "jobLevels": "Manager, Graduate, Mid-Professional, Professional Individual Contributor, Director, General Population, Entry-Level, Executive, Front Line Manager, Supervisor,",
+  "languages": null,
+  "assessmentLength": null,
+  "productFactSheet": [
+    "https://service.shl.com/docs/OPQ%20Premium%20Plus%202.0%20International%20English.pdf"
+  ]
+}

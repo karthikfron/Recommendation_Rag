@@ -1,0 +1,19 @@
+{
+  "title": "Industrial - Semi-skilled 7.1 (Americas)",
+  "description": "Our Industrial – Semi-skilled 7.1 solution is designed for entry-level positions and measures the behaviors and experiences that underlie successful and safe performance for production workers. The solution assesses behaviors and competencies foundational to industrial roles including: following policies and procedures; applying relevant trade skills; wearing required protective equipment; working with or monitoring equipment; producing high quality work; effectively working with others; and maintaining an orderly work environment. Potential job titles that use this solution include: Production and Assembly Worker, Construction Worker, Extraction Technician.\nPlease note this package is in Americas norm.",
+  "jobLevels": "Entry-Level,",
+  "languages": "English (USA), Portuguese (Brazil), French (Canada),",
+  "assessmentLength": "Approximate Completion Time in minutes = 24",
+  "productFactSheet": [
+    "https://service.shl.com/docs/Sample_Candidate_IndustrialSemi-skilledCandidateReport_CFR.pdf",
+    "https://service.shl.com/docs/Sample_Candidate_IndustrialSemi-skilledDetailedReport_CFR.pdf",
+    "https://service.shl.com/docs/Sample_Candidate_IndustrialSemi-skilledInterviewReport_CFR.pdf",
+    "https://service.shl.com/docs/7.1Industrial_SemiSkilled_FactSheet(USE).pdf",
+    "https://service.shl.com/docs/Sample_Candidate_IndustrialSemi-skilledCandidateReport_USE.pdf",
+    "https://service.shl.com/docs/Sample_Candidate_IndustrialSemi-skilledDetailedReport_USE.pdf",
+    "https://service.shl.com/docs/Sample_Candidate_IndustrialSemi-skilledInterviewReport_USE.pdf",
+    "https://service.shl.com/docs/Sample_Candidate_IndustrialSemi-skilledCandidateReport_PT%20BR.pdf",
+    "https://service.shl.com/docs/Sample_Candidate_IndustrialSemi-skilledDetailedReport_PT%20BR.pdf",
+    "https://service.shl.com/docs/Sample_Candidate_IndustrialSemi-skilledInterviewReport_PT%20BR.pdf"
+  ]
+}

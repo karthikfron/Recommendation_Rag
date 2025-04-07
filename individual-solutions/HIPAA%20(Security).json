@@ -1,0 +1,10 @@
+{
+  "title": "HIPAA (Security)",
+  "description": "The HIPAA (Security) test measures knowledge of compliance with the standards required by the Security and Electronic Signature Standards as they apply to HIPAA. Designed for healthcare professionals and concentrating on nontechnical as well as technical aspects of the HIPAA Standards for Security and Electronic Signatures, this test covers the following topics: Computer Mechanisms, Computer Models, General Knowledge, Implementation, Medical Records, Organization, Security Basics, and Setup.",
+  "jobLevels": "Front Line Manager, Manager,",
+  "languages": "English (USA),",
+  "assessmentLength": "Approximate Completion Time in minutes = 15 to 35",
+  "productFactSheet": [
+    "https://service.shl.com/docs/BB_Fact_Sheet_HIPAA_Security.pdf"
+  ]
+}

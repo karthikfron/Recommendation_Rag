@@ -1,0 +1,11 @@
+{
+  "title": "OPQ Candidate Plus Report",
+  "description": "A brief narrative OPQ (Occupational Personality Questionnaire) report designed to be given to the individual who completed the OPQ.",
+  "jobLevels": "Director, Executive, Front Line Manager, General Population, Graduate, Manager, Mid-Professional, Professional Individual Contributor, Supervisor,",
+  "languages": "Finnish, English International,",
+  "assessmentLength": null,
+  "productFactSheet": [
+    "https://service.shl.com/docs/OPQ32%20Candidate%20Plus%20Report%20English%20International.pdf",
+    "https://service.shl.com/docs/OPQ32%20Candidate%20Plus%20Report%20Finnish.pdf"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "title": "DSI v1.1 Interpretation Report",
+  "description": "DSI v1.1 Interpretation Report",
+  "jobLevels": null,
+  "languages": "Portuguese (Brazil), Dutch, Finnish, French, Latin American Spanish, Norwegian, Swedish, English (USA), English International, Chinese Simplified, Chinese Traditional, Danish, German, Icelandic, Italian, Russian,",
+  "assessmentLength": null,
+  "productFactSheet": [
+    "https://service.shl.com/docs/DSI%20Interpretation%20Report%20v2%20English%20International.pdf",
+    "https://service.shl.com/docs/DSI%20Interpretation%20Report%20v2%20Spanish%20(North%20America).pdf",
+    "https://service.shl.com/docs/DSI%20Interpretation%20Report%20v2%20English%20(US).pdf",
+    "https://service.shl.com/docs/DSI%20Interpretation%20Report%20v2%20Chinese%20Traditional.pdf",
+    "https://service.shl.com/docs/DSI%20Interpretation%20Report%20v2%20Chinese%20Simplified.pdf",
+    "https://service.shl.com/docs/DSI%20Interpretation%20Report%20v2%20Danish.pdf",
+    "https://service.shl.com/docs/DSI%20Interpretation%20Report%20v2%20Dutch.pdf",
+    "https://service.shl.com/docs/DSI%20Interpretation%20Report%20v2%20Finnish.pdf",
+    "https://service.shl.com/docs/DSI%20Interpretation%20Report%20v2%20French.pdf",
+    "https://service.shl.com/docs/DSI%20Interpretation%20Report%20v2%20German.pdf",
+    "https://service.shl.com/docs/DSI%20Interpretation%20Report%20v2%20Italian.pdf",
+    "https://service.shl.com/docs/DSI%20Interpretation%20Report%20v2%20Norwegian.pdf",
+    "https://service.shl.com/docs/DSI%20Interpretation%20Report%20v2%20Polish.pdf",
+    "https://service.shl.com/docs/DSI%20Interpretation%20Report%20v2%20Romanian.pdf",
+    "https://service.shl.com/docs/DSI%20Interpretation%20Report%20v2%20Russian.pdf",
+    "https://service.shl.com/docs/DSI%20Interpretation%20Report%20v2%20Swedish.pdf",
+    "https://service.shl.com/docs/DSI%20Interpretation%20Report%20v2%20Icelandic.pdf",
+    "https://service.shl.com/docs/DSI%20Interpretation%20Report%20v2%20Portuguese%20(Brazil).pdf"
+  ]
+}

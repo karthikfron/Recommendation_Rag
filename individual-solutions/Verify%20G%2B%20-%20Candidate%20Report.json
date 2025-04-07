@@ -1,0 +1,18 @@
+{
+  "title": "Verify G+ - Candidate Report",
+  "description": "The SHL Verify G+ Ability Candidate Report provides the candidate with feedback on their Numerical, Deductive and Inductive Reasoning results. It does not include the overall score, as it is intended for feedback and developmental purposes. The report focuses on how the candidate can improve their abilities in each area (deductive, inductive, and numerical). Please note: language availability for the G+ Candidate Report is currently more limited than for the manger-facing G+ Ability Report.",
+  "jobLevels": null,
+  "languages": null,
+  "assessmentLength": null,
+  "productFactSheet": [
+    "https://service.shl.com/docs/Verify%20G%2B%20Candidate%20Report%20English%20International.pdf",
+    "https://service.shl.com/docs/Verify%20G%2B%20Candidate%20Report%20English%20US.pdf",
+    "https://service.shl.com/docs/Verify%20G%2B%20Candidate%20Report%20Chinese%20Simplified.pdf",
+    "https://service.shl.com/docs/Verify%20G%2B%20Candidate%20Report%20Danish.pdf",
+    "https://service.shl.com/docs/Verify%20G%2B%20Candidate%20Report%20Dutch.pdf",
+    "https://service.shl.com/docs/Verify%20G%2B%20Candidate%20Report%20Finnish.pdf",
+    "https://service.shl.com/docs/Verify%20G%2B%20Candidate%20Report%20French.pdf",
+    "https://service.shl.com/docs/Verify%20G%2B%20Candidate%20Report%20German.pdf",
+    "https://service.shl.com/docs/Verify%20G%2B%20Candidate%20Report%20Polish.pdf"
+  ]
+}

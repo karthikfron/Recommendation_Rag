@@ -1,0 +1,11 @@
+{
+  "title": "Conversational Multichat Simulation",
+  "description": "This is a simulation-based test that measures the ability to handle customer concerns over multiple chats by referring to standard process documents. It provides an open-ended chat environment that assesses the candidate’s skills in a real job setting. Candidates are scored based on whether they resolved the customer’s query, the amount of time taken, and the correct use of vocabulary and grammar in their response.",
+  "jobLevels": null,
+  "languages": "English (USA),",
+  "assessmentLength": "Approximate Completion Time in minutes = 11",
+  "productFactSheet": [
+    "https://service.shl.com/docs/Conversational%20Multichat%20Simulation%20Product%20Fact%20Sheet.pdf",
+    "https://service.shl.com/docs/Conversational%20Multichat%20Simulation%20Report%20US%20English.pdf"
+  ]
+}

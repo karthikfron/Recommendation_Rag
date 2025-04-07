@@ -1,0 +1,17 @@
+{
+  "title": "OPQ Team Impact Selection Report",
+  "description": "These reports are based on the SHL Team Impact Model, which is focused on actual team processes. They are supported by clear and easy to understand graphics which do not require OPQ training.",
+  "jobLevels": "Director, Executive, Front Line Manager, General Population, Graduate, Manager, Mid-Professional, Professional Individual Contributor, Supervisor,",
+  "languages": "Danish, Dutch, Finnish, Latin American Spanish, Norwegian, Swedish, English International, English (USA),",
+  "assessmentLength": null,
+  "productFactSheet": [
+    "https://service.shl.com/docs/OPQ32%20Team%20Impact%20Selection%20Report%20v2.0%20English%20International.pdf",
+    "https://service.shl.com/docs/OPQ32%20Team%20Impact%20Selection%20Report%20v2.0%20Spanish%20(North%20America).pdf",
+    "https://service.shl.com/docs/OPQ32%20Team%20Impact%20Selection%20Report%20v2.0%20English%20(US).pdf",
+    "https://service.shl.com/docs/OPQ32%20Team%20Impact%20Selection%20Report%20v2.0%20Danish.pdf",
+    "https://service.shl.com/docs/OPQ32%20Team%20Impact%20Selection%20Report%20v2.0%20Dutch.pdf",
+    "https://service.shl.com/docs/OPQ32%20Team%20Impact%20Selection%20Report%20v2.0%20Finnish.pdf",
+    "https://service.shl.com/docs/OPQ32%20Team%20Impact%20Selection%20Report%20v2.0%20Norwegian.pdf",
+    "https://service.shl.com/docs/OPQ32%20Team%20Impact%20Selection%20Report%20v2.0%20Swedish.pdf"
+  ]
+}

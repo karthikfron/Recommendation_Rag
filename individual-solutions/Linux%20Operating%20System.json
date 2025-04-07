@@ -1,0 +1,11 @@
+{
+  "title": "Linux Operating System",
+  "description": "Multi-choice test that measures the knowledge of Linux system, command line, filesystem, memory management, and process management.",
+  "jobLevels": "Entry-Level, General Population, Graduate, Professional Individual Contributor,",
+  "languages": "English (USA),",
+  "assessmentLength": "Approximate Completion Time in minutes = 15",
+  "productFactSheet": [
+    "https://service.shl.com/docs/Linux%20Operating%20System%20US%20English.pdf",
+    "https://service.shl.com/docs/Linux%20Operating%20System%20-%20Technical%20Manual%20Supplement.pdf"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "title": "Kubernetes (New)",
+  "description": "Multi-choice test that measures the knowledge of the architecture, cluster and services of Kubernetes.",
+  "jobLevels": "Mid-Professional, Professional Individual Contributor,",
+  "languages": "English (USA),",
+  "assessmentLength": "Approximate Completion Time in minutes = 6",
+  "productFactSheet": [
+    "https://service.shl.com/docs/Kubernetes%20(New).pdf"
+  ]
+}

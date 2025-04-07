@@ -1,0 +1,19 @@
+{
+  "title": "Verify - G+",
+  "description": "The G+ test is part of the Verify suite of cognitive ability tests. The test is designed to measure three types of ability: Numerical, Deductive, and Inductive. There are 30 questions in the test, with 10 questions for each of the three abilities measured. Sample tasks for jobs that may require these abilities include, but are not limited to: evaluating arguments, analyzing scenarios, working with data, doing mathematical computations, interpreting graphs and tables, and drawing logical conclusions. The G+ test, due to its adaptive nature, is appropriate for all job levels and roles.",
+  "jobLevels": "General Population, Graduate, Manager, Mid-Professional, Professional Individual Contributor, Supervisor, Director, Entry-Level, Executive, Front Line Manager,",
+  "languages": "Romanian, English (USA), English International, French (Canada), Latin American Spanish, Arabic, Dutch, French, German, Swedish, Chinese Simplified, Chinese Traditional, Czech, Danish, Greek, Hungarian, Italian, Korean, Norwegian, Polish, Portuguese, Thai, Turkish, Finnish, Japanese, Spanish, Indonesian, Russian, Slovak, Serbian, Portuguese (Brazil), Vietnamese,",
+  "assessmentLength": "Approximate Completion Time in minutes = 36",
+  "productFactSheet": [
+    "https://service.shl.com/docs/Verify_G%20plus_Fact_Sheet.pdf",
+    "https://service.shl.com/docs/Verify%20G%20plus%20Fact%20Sheet%20-%20Simplified%20Chinese.pdf",
+    "https://service.shl.com/docs/Verify%20G%20plus%20Fact%20Sheet%20-%20Danish.pdf",
+    "https://service.shl.com/docs/Verify%20G%20plus%20Fact%20Sheet%20-%20Dutch.pdf",
+    "https://service.shl.com/docs/Verify%20G%20plus%20Fact%20Sheet%20-%20Finnish.pdf",
+    "https://service.shl.com/docs/Verify%20G%20plus%20Fact%20Sheet%20-%20French.pdf",
+    "https://service.shl.com/docs/Verify%20G%20plus%20Fact%20Sheet%20-%20German.pdf",
+    "https://service.shl.com/docs/Verify%20G%20plus%20Fact%20Sheet%20-%20Italian.pdf",
+    "https://service.shl.com/docs/Verify%20G%20plus%20Fact%20Sheet%20-%20Norwegian.pdf",
+    "https://service.shl.com/docs/Verify%20G%20plus%20Fact%20Sheet%20-%20Swedish.pdf"
+  ]
+}

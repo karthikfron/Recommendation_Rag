@@ -1,0 +1,10 @@
+{
+  "title": ".NET Framework 4.5",
+  "description": "The.NET Framework 4.5 test measures knowledge of .NET environment. Designed for experienced users, this test covers the following topics: Application Development, Application Foundation, Data Modeling, Deployment, Diagnostics, Performance, Portability, and Security.",
+  "jobLevels": "Professional Individual Contributor, Mid-Professional,",
+  "languages": "English (USA),",
+  "assessmentLength": "Approximate Completion Time in minutes = 30",
+  "productFactSheet": [
+    "https://service.shl.com/docs/Fact_Sheet-dotnet_framework_4.5.pdf"
+  ]
+}

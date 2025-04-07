@@ -1,0 +1,16 @@
+{
+  "title": "MFS 360 Enterprise Leadership Report",
+  "description": "The layout of this report follows the standard MFS 360 report but this is based on the Enterprise Leadership competency model, not the UCF model. The report text has been updated as well to reflect that.",
+  "jobLevels": null,
+  "languages": null,
+  "assessmentLength": null,
+  "productFactSheet": [
+    "https://service.shl.com/docs/EL%20360%20UKEnglish_Sample_Report.pdf",
+    "https://service.shl.com/docs/EL%20360%20USEnglish_Sample_Report.pdf",
+    "https://service.shl.com/docs/EL%20360%20ChineseSimplified_Sample_Report.pdf",
+    "https://service.shl.com/docs/EL%20360%20Dutch%20Sample%20Report.pdf",
+    "https://service.shl.com/docs/EL%20360%20French_Sample_Report.pdf",
+    "https://service.shl.com/docs/EL%20360%20German_Sample_Report.pdf",
+    "https://service.shl.com/docs/EL%20360%20Italian_Sample_Report.pdf"
+  ]
+}

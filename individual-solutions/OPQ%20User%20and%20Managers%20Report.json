@@ -1,0 +1,16 @@
+{
+  "title": "OPQ User and Managers Report",
+  "description": "This OPQ (Occupational Personality Questionnaire) report consists of two reports. The User Report includes a Profile Chart and narrative text, focusing on an individuals likely way of behaving at work. The Manager's Report describes the individual's personal style in narrative text that can be given directly to a line manager. These reports can be used as an interpretation aid when giving feedback, writing reports, or interpreting OPQ information.",
+  "jobLevels": "Director, Executive, Front Line Manager, General Population, Graduate, Manager, Mid-Professional, Professional Individual Contributor, Supervisor,",
+  "languages": "Flemish, French (Belgium), Danish, Finnish, French, Italian, Norwegian, Portuguese, English International,",
+  "assessmentLength": null,
+  "productFactSheet": [
+    "https://service.shl.com/docs/OPQ32%20Users%20and%20Managers%20Report%20v2%20English%20International.pdf",
+    "https://service.shl.com/docs/OPQ32%20Users%20and%20Managers%20Report%20v2%20Danish.pdf",
+    "https://service.shl.com/docs/OPQ32%20Users%20and%20Managers%20Report%20v2%20Finnish.pdf",
+    "https://service.shl.com/docs/OPQ32%20Users%20and%20Managers%20Report%20v2%20French.pdf",
+    "https://service.shl.com/docs/OPQ32%20Users%20and%20Managers%20Report%20v2%20Italian.pdf",
+    "https://service.shl.com/docs/OPQ32%20Users%20and%20Managers%20Report%20v2%20Norwegian.pdf",
+    "https://service.shl.com/docs/OPQ32%20Users%20and%20Managers%20Report%20v2%20Portuguese.pdf"
+  ]
+}

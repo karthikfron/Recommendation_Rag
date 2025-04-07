@@ -1,0 +1,10 @@
+{
+  "title": "ASP.NET 4.5",
+  "description": "The ASP.NET 4.5 test measures knowledge of programming in the ASP.NET environment. Designed for experienced developers, but an average performer in this role should pass this test. This test includes the following topics: .NET Framework, Client-Side Programming, Data Access, Enhanced Runtime Features, Portals, Services and Mobile, Security, Troubleshooting and Optimization, Web Applications, and Web Forms.",
+  "jobLevels": "Mid-Professional, Professional Individual Contributor,",
+  "languages": "English (USA),",
+  "assessmentLength": "Approximate Completion Time in minutes = 30",
+  "productFactSheet": [
+    "https://service.shl.com/docs/Fact_Sheet-asp.net_4.5.pdf"
+  ]
+}

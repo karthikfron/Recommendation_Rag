@@ -1,0 +1,10 @@
+{
+  "title": "Linux Programming (General)",
+  "description": "The Linux Programming (General) test measures knowledge of programming in a Linux environment. Designed for experienced programmers, this test covers the following topics: AutoConf/AutoMake, Makefiles, C Programming, C++, Debugging Programs, Linux Programming Concepts, Platform Independence, Revision Control, RPC/CORBA, and X Programming.",
+  "jobLevels": "Mid-Professional, Professional Individual Contributor,",
+  "languages": "English (USA),",
+  "assessmentLength": "Approximate Completion Time in minutes = 25",
+  "productFactSheet": [
+    "https://service.shl.com/docs/BB_Fact_Sheet_LinuxProgrammingGeneral.pdf"
+  ]
+}

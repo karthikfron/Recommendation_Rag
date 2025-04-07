@@ -1,0 +1,10 @@
+{
+  "title": "Apache HBase (New)",
+  "description": "Multi-choice test that measures the knowledge of HBase concepts such as CAP theorem, ACID properties, HBase client API, MapReduce integration, configuration and administration.",
+  "jobLevels": "Mid-Professional, Professional Individual Contributor,",
+  "languages": "English (USA),",
+  "assessmentLength": "Approximate Completion Time in minutes = 5",
+  "productFactSheet": [
+    "https://service.shl.com/docs/Apache%20HBase%20(New).pdf"
+  ]
+}

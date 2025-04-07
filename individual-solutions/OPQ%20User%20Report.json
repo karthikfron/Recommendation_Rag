@@ -1,0 +1,23 @@
+{
+  "title": "OPQ User Report",
+  "description": "This OPQ (Occupational Personality Questionnaire) report includes a Profile Chart and narrative text, focusing on an individuals likely way of behaving at work. It can be used as an interpretation aid when giving feedback, writing reports, or interpreting OPQ information.",
+  "jobLevels": "Director, Executive, Front Line Manager, General Population, Graduate, Manager, Mid-Professional, Professional Individual Contributor, Supervisor,",
+  "languages": "Flemish, French (Belgium), Spanish, Danish, Dutch, Finnish, French, German, Italian, Norwegian, Portuguese, English International, English (USA), Portuguese (Brazil), French (Canada), Latin American Spanish,",
+  "assessmentLength": null,
+  "productFactSheet": [
+    "https://service.shl.com/docs/OPQ32%20Users%20Report%20Std%20V2%20English%20International.pdf",
+    "https://service.shl.com/docs/OPQ32%20Users%20Report%20Std%20V2%20French%20(Canada).pdf",
+    "https://service.shl.com/docs/OPQ32%20Users%20Report%20Std%20V2%20Spanish%20(North%20America).pdf",
+    "https://service.shl.com/docs/OPQ32%20Users%20Report%20Std%20V2%20English%20(US).pdf",
+    "https://service.shl.com/docs/OPQ32%20Users%20Report%20Std%20V2%20Danish.pdf",
+    "https://service.shl.com/docs/OPQ32%20Users%20Report%20Std%20V2%20Dutch.pdf",
+    "https://service.shl.com/docs/OPQ32%20Users%20Report%20Std%20V2%20Finnish.pdf",
+    "https://service.shl.com/docs/OPQ32%20Users%20Report%20Std%20V2%20French.pdf",
+    "https://service.shl.com/docs/OPQ32%20Users%20Report%20Std%20V2%20German.pdf",
+    "https://service.shl.com/docs/OPQ32%20Users%20Report%20Std%20V2%20Italian.pdf",
+    "https://service.shl.com/docs/OPQ32%20Users%20Report%20Std%20V2%20Norwegian.pdf",
+    "https://service.shl.com/docs/OPQ32%20Users%20Report%20Std%20V2%20Portuguese.pdf",
+    "https://service.shl.com/docs/OPQ32%20Users%20Report%20Std%20V2%20Spanish.pdf",
+    "https://service.shl.com/docs/OPQ32%20Users%20Report%20Std%20V2%20Portuguese%20(Brazil).pdf"
+  ]
+}

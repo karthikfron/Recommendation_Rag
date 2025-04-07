@@ -1,0 +1,25 @@
+{
+  "title": "OPQ Candidate Report 2.0",
+  "description": "A brief narrative OPQ (Occupational Personality Questionnaire) report structure around 3 OPQ profile sections which can be given to candidates to keep after a feedback session",
+  "jobLevels": null,
+  "languages": null,
+  "assessmentLength": null,
+  "productFactSheet": [
+    "https://service.shl.com/docs/OPQ%20Candidate%20Report%202.0%20International%20English.pdf",
+    "https://service.shl.com/docs/OPQ%20Candidate%20Report%202.0%20Canadian%20French.pdf",
+    "https://service.shl.com/docs/OPQ%20Candidate%20Report%202.0%20Latin%20American%20Spanish.pdf",
+    "https://service.shl.com/docs/OPQ%20Candidate%20Report%202.0%20US%20English.pdf",
+    "https://service.shl.com/docs/OPQ%20Candidate%20Report%202.0%20Japanese.pdf",
+    "https://service.shl.com/docs/OPQ%20Candidate%20Report%202.0%20Danish.pdf",
+    "https://service.shl.com/docs/OPQ%20Candidate%20Report%202.0%20Dutch.pdf",
+    "https://service.shl.com/docs/OPQ%20Candidate%20Report%202.0%20Finnish.pdf",
+    "https://service.shl.com/docs/OPQ%20Candidate%20Report%202.0%20French.pdf",
+    "https://service.shl.com/docs/OPQ%20Candidate%20Report%202.0%20German.pdf",
+    "https://service.shl.com/docs/OPQ%20Candidate%20Report%202.0%20Hungarian.pdf",
+    "https://service.shl.com/docs/OPQ%20Candidate%20Report%202.0%20Italian.pdf",
+    "https://service.shl.com/docs/OPQ%20Candidate%20Report%202.0%20Portuguese.pdf",
+    "https://service.shl.com/docs/OPQ%20Candidate%20Report%202.0%20Spanish.pdf",
+    "https://service.shl.com/docs/OPQ%20Candidate%20Report%202.0%20Swedish.pdf",
+    "https://service.shl.com/docs/OPQ%20Candidate%20Report%202.0%20Brazilian%20Portuguese.pdf"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "title": "OPQ Leadership Report",
+  "description": "This OPQ (Occupational Personality Questionnaire) report provides a detailed analysis of an individual's leadership potential. It is based on SHL's leading edge Leadership Model, providing a competency based approach to leadership.",
+  "jobLevels": "Director, Executive, Manager, Mid-Professional, Professional Individual Contributor,",
+  "languages": "Dutch, English International, English (USA), Romanian, Portuguese, French, German, Swedish, Chinese Simplified, Portuguese (Brazil), Japanese, Polish, Russian, Latin American Spanish,",
+  "assessmentLength": null,
+  "productFactSheet": [
+    "https://service.shl.com/docs/OPQ_Leadership_Report_Fact_Sheet.pdf",
+    "https://service.shl.com/docs/The%20Leadership%20Report%20v2.0%20SC%20English%20International.pdf",
+    "https://service.shl.com/docs/The%20Leadership%20Report%20v2.0%20SC%20Spanish%20(North%20America).pdf",
+    "https://service.shl.com/docs/The%20Leadership%20Report%20v2.0%20SC%20English%20(US).pdf",
+    "https://service.shl.com/docs/The%20Leadership%20Report%20v2.0%20SC%20Chinese%20Simplified.pdf",
+    "https://service.shl.com/docs/The%20Leadership%20Report%20v2.0%20SC%20Japanese.pdf",
+    "https://service.shl.com/docs/The%20Leadership%20Report%20v2.0%20SC%20Korean.pdf",
+    "https://service.shl.com/docs/The%20Leadership%20Report%20v2.0%20SC%20Danish.pdf",
+    "https://service.shl.com/docs/The%20Leadership%20Report%20v2.0%20SC%20Dutch.pdf",
+    "https://service.shl.com/docs/The%20Leadership%20Report%20v2.0%20SC%20French.pdf",
+    "https://service.shl.com/docs/The%20Leadership%20Report%20v2.0%20SC%20German.pdf",
+    "https://service.shl.com/docs/The%20Leadership%20Report%20v2.0%20SC%20Polish.pdf",
+    "https://service.shl.com/docs/The%20Leadership%20Report%20v2.0%20SC%20Portuguese.pdf",
+    "https://service.shl.com/docs/The%20Leadership%20Report%20v2.0%20SC%20Romanian.pdf",
+    "https://service.shl.com/docs/The%20Leadership%20Report%20v2.0%20SC%20Russian.pdf",
+    "https://service.shl.com/docs/The%20Leadership%20Report%20v2.0%20SC%20Swedish.pdf",
+    "https://service.shl.com/docs/The%20Leadership%20Report%20v2.0%20SC%20Portuguese%20(Brazil).pdf"
+  ]
+}

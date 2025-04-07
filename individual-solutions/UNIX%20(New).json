@@ -1,0 +1,10 @@
+{
+  "title": "UNIX (New)",
+  "description": "Multi-choice test that measures the knowledge on the concepts of UNIX commands, file system, file handling, regular expression, awk programming and shell programming.",
+  "jobLevels": "Mid-Professional, Professional Individual Contributor,",
+  "languages": "English (USA),",
+  "assessmentLength": "Approximate Completion Time in minutes = 9",
+  "productFactSheet": [
+    "https://service.shl.com/docs/UNIX%20(New).pdf"
+  ]
+}

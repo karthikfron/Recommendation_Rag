@@ -1,0 +1,18 @@
+{
+  "title": "OPQ Manager Plus Report 2.0",
+  "description": "This concise OPQ (Occupational Personality Questionnaire) report is designed for use with and by managers. It uses clear succinct bullets and tables for ease of interpretation. It provides simple comments on each of the personality traits.",
+  "jobLevels": "Supervisor, Executive, Front Line Manager, General Population, Graduate, Manager, Mid-Professional, Professional Individual Contributor, Director, Entry-Level,",
+  "languages": null,
+  "assessmentLength": null,
+  "productFactSheet": [
+    "https://service.shl.com/docs/Manager%20Plus%20International%20English.pdf",
+    "https://service.shl.com/docs/Manager%20Plus%20Report%202.0%20Latin%20American%20Spanish.pdf",
+    "https://service.shl.com/docs/Manager%20Plus%20Report%20US%20English.pdf",
+    "https://service.shl.com/docs/OPQ%20Manager%20Plus%202.0%20Simplified%20Chinese.pdf",
+    "https://service.shl.com/docs/Manager%20Plus%202.0%20Japanese.pdf",
+    "https://service.shl.com/docs/Manager%20Plus%202.0%20Finnish.pdf",
+    "https://service.shl.com/docs/Manager%20Plus%202.0%20French.pdf",
+    "https://service.shl.com/docs/Manager%20Plus%20Report%20V2%20Swedish.pdf",
+    "https://service.shl.com/docs/Manager%20Plus%202.0%20Brazilian%20Portuguese.pdf"
+  ]
+}

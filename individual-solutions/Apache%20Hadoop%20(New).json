@@ -1,0 +1,10 @@
+{
+  "title": "Apache Hadoop (New)",
+  "description": "Multi-choice test that measures the knowledge of basic concepts of Hadoop, commands, HDFS and MapReduce.",
+  "jobLevels": "Mid-Professional, Professional Individual Contributor,",
+  "languages": "English (USA),",
+  "assessmentLength": "Approximate Completion Time in minutes = 7",
+  "productFactSheet": [
+    "https://service.shl.com/docs/Apache%20Hadoop%20(New).pdf"
+  ]
+}

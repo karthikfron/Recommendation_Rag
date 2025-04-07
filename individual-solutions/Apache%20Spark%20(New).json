@@ -1,0 +1,10 @@
+{
+  "title": "Apache Spark (New)",
+  "description": "Multi-choice test that measures the knowledge of Apache Spark principles, RDD operations - actions and transformations, lineage graphs and lazy evaluation.",
+  "jobLevels": "Mid-Professional, Professional Individual Contributor,",
+  "languages": "English (USA),",
+  "assessmentLength": "Approximate Completion Time in minutes = 8",
+  "productFactSheet": [
+    "https://service.shl.com/docs/Apache%20Spark%20(New).pdf"
+  ]
+}

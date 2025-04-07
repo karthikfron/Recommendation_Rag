@@ -1,0 +1,14 @@
+{
+  "title": "MQ Employee Motivation Report",
+  "description": "The MQ Employee Motivation Report is ideal for use by line managers and those concerned with employee’s performance and well being, the Employee Motivation Report provides an in-depth and easy-to-understand evaluation of what motivates and de-motivates someone. It also offers a comprehensive list of tips and suggestions for managing the employee’s strongest motivators and demotivators.",
+  "jobLevels": "Director, Entry-Level, Executive, Front Line Manager, General Population, Graduate, Manager, Mid-Professional, Professional Individual Contributor, Supervisor,",
+  "languages": "Chinese Simplified, English International, English (USA),",
+  "assessmentLength": null,
+  "productFactSheet": [
+    "https://service.shl.com/docs/MQ%20Employee%20Motivation%20Report%20Std%20v2.0%20English%20International.pdf",
+    "https://service.shl.com/docs/MQ%20Employee%20Motivation%20Report%20Std%20v2.0%20English%20(US).pdf",
+    "https://service.shl.com/docs/MQ%20Employee%20Motivation%20Report%20Std%20v2.0%20Chinese%20Simplified.pdf.pdf",
+    "https://service.shl.com/docs/MQ%20Employee%20Motivation%20Report%20Czech.pdf",
+    "https://service.shl.com/docs/MQ.M5%20Employee%20Motivation%20Report%20Serbian.pdf"
+  ]
+}
